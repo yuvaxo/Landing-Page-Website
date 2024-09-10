@@ -4,7 +4,8 @@
 
 Welcome to the Landing Page Website Project! This project is an excellent starting point for beginners in web development, offering a hands-on experience in creating a simple yet effective web page using HTML and CSS. By working on this project, you will build foundational skills in web design and layout, which are crucial for any aspiring web developer.
 
-A landing page serves as the first point of contact for users visiting a website. Its primary purpose is to convey information clearly and attractively while guiding the user to take specific actions. This project will help you understand the basic structure of a webpage, how to organize content, and how to use CSS to style your page for a visually appealing result.
+A landing page serves as the first point of contact for users visiting a website. Its primary purpose is to convey information clearly and attractively while guiding the user to take specific actions. This project will help you understand the basic structure of a webpage, how to organize content, and how to use CSS to style your page for a visually appealing result.This project is developed by [K.YUVA SHANKAR](https://www.linkedin.com/in/yuva-shankar-4ba786228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
+
 
 ## Project Objectives
 
@@ -65,4 +66,4 @@ By completing this project, you'll gain confidence in your ability to create web
 
 ---
 
-**Author**: [K.YUVA SHANKAR](https://www.linkedin.com/in/yuva-shankar-4ba786228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+**Developed by:** [K.YUVA SHANKAR](https://www.linkedin.com/in/yuva-shankar-4ba786228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
